@@ -1,4 +1,5 @@
 # Unsupervised_Learning_Projects-
+
 #1
 DOMAIN: Automobile 
 • CONTEXT: The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 
@@ -19,6 +20,7 @@ continuous attributes
 Steps and tasks: [ Total Score: 25 points]
 
 #2
+
 • DOMAIN: Manufacturing 
 • CONTEXT: Company X curates and packages wine across various vineyards spread throughout the country.
 • DATA DESCRIPTION: The data concerns the chemical composition of the wine and its respective quality.
@@ -44,6 +46,7 @@ difficult to distinguish between the cars.
 model using just the raw data.
 
 #4
+
 • DOMAIN: Sports management 
 • CONTEXT: Company X is a sports management company for international cricket. 
 • DATA DESCRIPTION: The data is collected belongs to batsman from IPL series conducted so far. Attribute Information: 
