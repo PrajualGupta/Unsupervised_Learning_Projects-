@@ -18,6 +18,7 @@ continuous attributes
 • PROJECT OBJECTIVE: Goal is to cluster the data and treat them as individual datasets to train Regression models to predict ‘mpg’ 
 Steps and tasks: [ Total Score: 25 points]
 
+#2
 • DOMAIN: Manufacturing 
 • CONTEXT: Company X curates and packages wine across various vineyards spread throughout the country.
 • DATA DESCRIPTION: The data concerns the chemical composition of the wine and its respective quality.
@@ -27,6 +28,8 @@ Attribute Information:
 
 • PROJECT OBJECTIVE: Goal is to build a synthetic data generation model using the existing data provided by the company.
 Steps and tasks: [ Total Score: 5 points]
+
+#3
 
 • DOMAIN: Automobile 
 • CONTEXT: The purpose is to classify a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette. 
@@ -40,6 +43,7 @@ difficult to distinguish between the cars.
 • PROJECT OBJECTIVE: Apply dimensionality reduction technique – PCA and train a model using principal components instead of training the 
 model using just the raw data.
 
+#4
 • DOMAIN: Sports management 
 • CONTEXT: Company X is a sports management company for international cricket. 
 • DATA DESCRIPTION: The data is collected belongs to batsman from IPL series conducted so far. Attribute Information: 
